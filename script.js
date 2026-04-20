@@ -249,7 +249,7 @@ document.addEventListener('DOMContentLoaded', () => {
         msgDiv.innerHTML = `<i class="fas fa-robot" style="margin-right: 8px; font-size: 0.8rem; color: var(--primary)"></i>${text}`;
         if (showButton) {
             const btn = document.createElement('a');
-            btn.href = 'https://drive.google.com/file/d/1EunGuA0VlWF0KW5XPePvQLgebOM9BkLz/view?usp=sharing';
+            btn.href = 'https://drive.google.com/file/d/1kM6BFTB4uQhVzOTJcz_9kd1WIhvZIAZ3/view?usp=sharing';
             btn.className = 'chat-download-btn';
             btn.target = '_blank';
             btn.rel = 'noopener noreferrer';
